@@ -116,7 +116,8 @@ section {
     background: #fce138;
 }
 .section-title {
-    font-size: 55px #024e76;
+    font-size: 55px;
+    color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
@@ -194,4 +195,39 @@ section {
 .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
+}
+.contact {
+    background: #024e76;
+    text-align: center;
+    overflow: auto;
+}
+.contact h2 {
+    color: #fce138;
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+    float: left;
+    position: relative;
+}
+.address {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+.address h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+.address p, .address address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.address a {
+    color: #fce138;
 }
