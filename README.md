@@ -12,3 +12,5 @@ https://npokamestov.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nikita Pokamestov
+
+### ©️2019 Run Buddy, Inc
