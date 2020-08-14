@@ -51,6 +51,7 @@ header nav ul {
 }
 header nav ul li {
     display: inline;
+    margin: 10px 5px;
 }
 header nav ul li a {
     padding: 10px 15px;
